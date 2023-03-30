@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-responsive-tailwindcss-f6G1s-Sq-J)
 - [Live Site URL](https://delacdavid.github.io/frontend-mentor--qr-code-component-ddc)
 
 ### Built with
